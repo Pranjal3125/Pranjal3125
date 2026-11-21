@@ -29,6 +29,7 @@ Building practical software, automation tools, Android apps, and high-reliabilit
 
 | Project | Description | Tech Stack |
 |---|---|---|
+| 📊 **FI Intelligence** *(Private)* | WhatsApp-based Business Intelligence & reporting automation assistant featuring flexible report parsing, validation, duplicate/correction tracking, schema migrations, authenticated admin dashboard, and a WSGI webhook adapter. | `Python` · `SQLite` · `WhatsApp Cloud API` · `WSGI` · `CI` |
 | 🏙️ **[ClasherCity](https://github.com/Pranjal3125/ClasherCity)** | Dedicated city world plugin with paid building plots, WorldGuard protection, tournaments, player voting, judge scoring, and leaderboards. | `Java 25` · `Paper API` · `SQLite` · `WorldGuard` · `Vault` |
 | 🔨 **[ClasherBid](https://github.com/Pranjal3125/ClasherBid)** | GUI-based single-item auction plugin with Vault economy integration, anti-sniping, persistent state, and crash-safe transaction recovery. | `Java 25` · `Paper API` · `Vault` · `Maven` · `GitHub Actions` |
 | ⚔️ **[Clasher Events](https://github.com/Pranjal3125/clasher-events)** | Modular PvP tournament engine supporting Battle Royale, 1v1 Duels, Team Wars, custom kits, arena resets, and crash recovery. | `Java 25` · `Paper API` · `WorldEdit` · `WorldGuard` |
