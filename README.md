@@ -7,6 +7,7 @@
 Building practical software, automation tools, Android apps, and high-reliability Minecraft Paper plugins.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Pranjal3125-181717?style=for-the-badge&logo=github)](https://github.com/Pranjal3125)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranjal%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranjal-singh-aba950321/)
 [![Followers](https://img.shields.io/github/followers/Pranjal3125?style=for-the-badge&color=5865F2&logo=github)](https://github.com/Pranjal3125?tab=followers)
 
 </div>
